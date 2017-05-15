@@ -17,15 +17,15 @@ $ apm install allthings-syntax
 ### PhpStorm
 **OSX**
 ```sh
-$ cp _editors/PhpStorm/Allthings.icls ~/Library/Preferences/<Product>/colors/
+$ cp allthings-sytax-phpstorm/Allthings.icls ~/Library/Preferences/<Product>/colors/
 ```
 **Windows**
 
-Copy `_editors/PhpStorm/Allthings.icls` to `C:/Users/USERNAME/.<Product>/config/colors`
+Copy `allthings-sytax-phpstorm/Allthings.icls` to `C:/Users/USERNAME/.<Product>/config/colors`
 
 **Linux**
 ```sh
-$ cp _editors/PhpStorm/Allthings.icls ~/.<Product>/config/colors/
+$ cp allthings-sytax-phpstorm/Allthings.icls ~/.<Product>/config/colors/
 ```
 
 ### Matching Sublime, Vim, Emacs, etc... themes are incoming....
@@ -33,4 +33,8 @@ Just post any wishes and feedback.
 ****
 ## Screenshots
 
-![example](https://raw.githubusercontent.com/fivenp/allthings-syntax/master/images/example.atom.png)
+#### Atom
+![Atom](https://raw.githubusercontent.com/fivenp/allthings-syntax/master/images/example.atom.png)
+
+#### PhpStorm
+![PhpStorm](https://raw.githubusercontent.com/fivenp/allthings-syntax/master/images/example.phpstorm.png)
