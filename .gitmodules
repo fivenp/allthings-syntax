@@ -1,0 +1,6 @@
+[submodule "atom"]
+	path = atom
+	url = git@github.com:fivenp/allthings-syntax-atom.git
+[submodule "phpstorm"]
+	path = phpstorm
+	url = git@github.com:fivenp/allthings-syntax-phpstorm.git
