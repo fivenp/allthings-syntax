@@ -17,15 +17,15 @@ $ apm install allthings-syntax
 ### PhpStorm
 **OSX**
 ```sh
-$ cp allthings-sytax-phpstorm/Allthings.icls ~/Library/Preferences/<Product>/colors/
+$ cp phpstorm/Allthings.icls ~/Library/Preferences/<Product>/colors/
 ```
 **Windows**
 
-Copy `allthings-sytax-phpstorm/Allthings.icls` to `C:/Users/USERNAME/.<Product>/config/colors`
+Copy `phpstorm/Allthings.icls` to `C:/Users/USERNAME/.<Product>/config/colors`
 
 **Linux**
 ```sh
-$ cp allthings-sytax-phpstorm/Allthings.icls ~/.<Product>/config/colors/
+$ cp phpstorm/Allthings.icls ~/.<Product>/config/colors/
 ```
 
 ### Matching Sublime, Vim, Emacs, etc... themes are incoming....
